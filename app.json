@@ -1,1 +1,22 @@
-
+{
+    "app": {
+        "4d":{
+            "url": "https://github.com/hirazy2001/Git_Train/blob/main/app/4d.json"
+        },
+        "4k":{
+            "url": "https://github.com/hirazy2001/Git_Train/blob/main/app/4k.json"
+        },
+        "categories":{
+            "url": "https://github.com/hirazy2001/Git_Train/blob/main/app/categorie.json"
+        },
+        "live":{
+            "url": "https://github.com/hirazy2001/Git_Train/blob/main/app/live.json"
+        },
+        "subject": {
+            "url": "https://github.com/hirazy2001/Git_Train/blob/main/app/subject.json"
+        },
+        "suggestion": {
+            "url": "https://github.com/hirazy2001/Git_Train/blob/main/app/suggestion.json"
+        }
+    }
+}
