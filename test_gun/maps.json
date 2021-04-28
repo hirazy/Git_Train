@@ -4,7 +4,7 @@
             "id": "1",
             "title": "Fireball Gun Addon",
             "text": "The Fireball Gun Addon is a much needer upgrade for one of the default weapon which causes both an explosion and some fire. It 's better than a bow but it is by no means overpowered. And since the explosion is quite small shouldn't cause any lag on your device whatsoever.",
-            "image": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/bg_1.jpg",
+            "image": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/bg_1.jpg",
             "downloadItems": [
                 {
                     "name": "fireball-gun-addon-resource.mcpack",
@@ -17,13 +17,13 @@
             ],
             "imageItems": [
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_1.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_1.jpg"
                 },
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_2.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_2.jpg"
                 },
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_3.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_3.jpg"
                 }
             ]
         },
@@ -31,7 +31,7 @@
             "id": "2",
             "title": "Gun Scope (Zoom) Addon",
             "text": "This add-on implements a scope/zoom feature for the bow in game.\nYou can active the scope / zoom mode by sneaking while holding a bow in your hand. This will ake hitting your targets much easier as they will appear closer to you than they actually are.\n # how to install\n * Download and install the behavior pack\n * Active the behavior pack in your world settings",
-            "image": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/bg_2.jpg",
+            "image": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/bg_2.jpg",
             "downloadItems": [
                 {
                     "name": "fireball-gun-addon-resource.mcpack",
@@ -44,13 +44,13 @@
             ],
             "imageItems": [
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_4.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_4.jpg"
                 },
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_5.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_5.jpg"
                 },
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_6.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_6.jpg"
                 }
             ]
         }
