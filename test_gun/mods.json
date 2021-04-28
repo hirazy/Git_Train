@@ -16,13 +16,39 @@
             ],
             "imageItems": [
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_1.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_1.jpg"
                 },
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_2.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_2.jpg"
                 },
                 {
-                    "url": "https://github.com/hirazy2001/Git_Train/blob/main/test_gun/img_3.jpg"
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_3.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Gun Scope(Zoom) Addon",
+            "text": "The Fireball Gun Addon is a much needer upgrade for one of the default weapon which causes both an explosion and some fire. It 's better than a bow but it is by no means overpowered. And since the explosion is quite small shouldn't cause any lag on your device whatsoever.",
+            "downloadItems": [
+                {
+                    "name": "fireball-gun-addon-resource.mcpack",
+                    "url": "https://www.mediafire.com/file/lpalyogakuuwmmj/fireball-gun-resource-2.mcpack/file"
+                },
+                {
+                    "name": "fireball-gun-addon-behavior.mcpack",
+                    "url": "https://www.mediafire.com/file/3gvqr4ly2mo4ftx/fireball-gun-behavior.mcpack/file"
+                }
+            ],
+            "imageItems": [
+                {
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_4.jpg"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_5.jpg"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/img_6.jpg"
                 }
             ]
         }
