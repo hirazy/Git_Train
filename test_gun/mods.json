@@ -4,6 +4,7 @@
             "id": "1",
             "title": "Fireball Gun Addon",
             "text": "The Fireball Gun Addon is a much needer upgrade for one of the default weapon which causes both an explosion and some fire. It 's better than a bow but it is by no means overpowered. And since the explosion is quite small shouldn't cause any lag on your device whatsoever.",
+            "image": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/bg_1.jpg",
             "downloadItems": [
                 {
                     "name": "fireball-gun-addon-resource.mcpack",
@@ -30,6 +31,7 @@
             "id": "2",
             "title": "Gun Scope(Zoom) Addon",
             "text": "The Fireball Gun Addon is a much needer upgrade for one of the default weapon which causes both an explosion and some fire. It 's better than a bow but it is by no means overpowered. And since the explosion is quite small shouldn't cause any lag on your device whatsoever.",
+            "image": "https://raw.githubusercontent.com/hirazy2001/Git_Train/main/test_gun/bg_2.jpg",
             "downloadItems": [
                 {
                     "name": "fireball-gun-addon-resource.mcpack",
